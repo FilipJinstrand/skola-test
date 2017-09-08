@@ -1,3 +1,3 @@
 # skola-test
-hello-world
+hello-world\n 
 Bye-World
